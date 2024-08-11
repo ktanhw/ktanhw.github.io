@@ -4,11 +4,11 @@ main:
    # url: /cv/
     url: /files/TAN Han Wei Ken_CV_Master.pdf
 
-  - title: "Publications"
-    url: /publications/
+  #-# title: "Publications"
+   # url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+   # url: /teaching/    
     
   #- title: "Portfolio"
    # url: /portfolio/
