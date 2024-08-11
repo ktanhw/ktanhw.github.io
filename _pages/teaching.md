@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: Teaching Experience
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Graduate Teaching Assistant, National University of Singapore
-======
+## Graduate Teaching Assistant, National University of Singapore
 The following are modules that I have TA-ed at NUS:
 
 * NMC5322 Interactive Media Marketing Practices (Fall 2023)
