@@ -13,26 +13,26 @@ redirect_from:
 📚 I'm currently working towards my PhD thesis that combines personality psychology and political psychology using mixed methods and computational social science.
 
 
-## My Background and History
+## ⏳ My Background and History
 I received my M.A. (by research) in Communications & New Media from the National University of Singapore, and my BSocSci (Hons) in Psychology and Media Analytics from the Nanyang Technological University Singapore. Prior to commencing my university education, I had a short stint as a Human Resources Executive after gaining a Diploma in Business Studies, specialising in Human Capital Management. 
 
 
-## Selected Publications
+## 📝 Selected Publications
 **Peer-Reviewed Articles**
-1. Ahmed, S., & Tan, H. W. (2022). Personality and perspicacity: Role of personality traits and cognitive ability in political misinformation discernment and sharing behavior. Personality and Individual Differences, 196, 111747. https://doi.org/10.1016/j.paid.2022.111747
+1. Ahmed, S., & Tan, H. W. (2022). Personality and perspicacity: Role of personality traits and cognitive ability in political misinformation discernment and sharing behavior. Personality and Individual Differences, 196, 111747. [https://doi.org/10.1016/j.paid.2022.111747](https://doi.org/10.1016/j.paid.2022.111747)
 
 **Conference Papers**
-1. Lee, C. S., Goh, D. H., Tan, H. W., Zheng, H., & Theng, Y. L. (2021). Understanding the Temporal Effects on Tweetcussion of COVID‐19 Vaccine. Proceedings of the Association for Information Science and Technology, 58(1), 768–770. https://doi.org/10.1002/pra2.556
-2. Tan, H. W., Lee, C. S., Goh, D. H.-L., Zheng, H., & Theng, Y. L. (2021). Analyzing COVID-19 Vaccine Tweets for Tonal Shift. In C. Stephanidis, M. Antona, & S. Ntoa (Eds.), HCI International 2021—Posters (Vol. 1421, pp. 615–623). Springer International Publishing. https://doi.org/10.1007/978-3-030-78645-8_78
+1. Lee, C. S., Goh, D. H., Tan, H. W., Zheng, H., & Theng, Y. L. (2021). Understanding the Temporal Effects on Tweetcussion of COVID‐19 Vaccine. Proceedings of the Association for Information Science and Technology, 58(1), 768–770. [https://doi.org/10.1002/pra2.556](https://doi.org/10.1002/pra2.556)
+2. Tan, H. W., Lee, C. S., Goh, D. H.-L., Zheng, H., & Theng, Y. L. (2021). Analyzing COVID-19 Vaccine Tweets for Tonal Shift. In C. Stephanidis, M. Antona, & S. Ntoa (Eds.), HCI International 2021—Posters (Vol. 1421, pp. 615–623). Springer International Publishing. [https://doi.org/10.1007/978-3-030-78645-8_78](https://doi.org/10.1007/978-3-030-78645-8_78)
 
 
-## Selected Conference Talks 
+## 💬 Selected Conference Talks 
 1. Tan, H. W., Ahmed, S. (2022, May). Role of Ideologies, Cognition, and Dark and Light Triad Traits in Political Misinformation Engagement. Extended Abstract presented at the 72nd Annual International Communication Association (ICA) Conference. Paris, France (Hybrid).
 2. Lee, C. S., Goh, D. H., Tan, H. W., Zheng, H., & Theng, Y. L. (2022, May). The Situational Theory of Publics Approach to Understand Tweets about COVID-19 Vaccines. Poster paper presented at the 72nd Annual International Communication Association (ICA) Conference. Paris, France (Hybrid).
 3. Tan, H. W., Lee, C. S. (2021, September). The Tweetcussion of COVID-19 Vaccine. Poster paper presented at the 9th Annual International Conference of Undergraduate Research (ICUR 2021).
 
 
-## Selected Awards & Honors
+## 🏆 Selected Awards & Honors
 1. NTU Research Scholarship, Nanyang Technological University, 2024 – Present
 2. NUS FASS Graduate Students' Teaching Award Semester 2 of AY22-23, National University of Singapore, 2023
 3. NUS FASS Graduate Teaching Fellowship, National University of Singapore, 2022 – 2023
