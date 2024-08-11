@@ -8,7 +8,7 @@ redirect_from:
 ---
 🧑🏻‍💻 I'm a first-year PhD Student at the NTU Singapore, School of Social Sciences.
 
-📑 My research interests lies in interdisciplinary research that combines human motivation with communication and computational social science. 
+📑 My research interests lies in interdisciplinary research in social sciences that combines human motivation with communication and computational social science. 
 
 📚 I'm currently working towards my PhD thesis that combines personality psychology and political psychology using mixed methods and computational social science.
 
