@@ -8,13 +8,13 @@ redirect_from:
 ---
 🧑🏻‍💻 I'm a first-year PhD Student at the NTU Singapore, School of Social Sciences.
 
-📑 My research interests lies in interdisciplinary research in social sciences that combines human motivation with communication and computational social science. 
+📑 My overall research interests lies in interdisciplinary research in social sciences that combines human motivation with communication and computational social science. 
 
 📚 I'm currently working towards my PhD thesis that combines personality psychology and political psychology using mixed methods and computational social science.
 
 
 ## My Background and History
-I received my M.A. (by research) in Communications & New Media from the National University of Singapore, and my BSocSci (Hons) in Psychology and Media Analytics from Nanyang Technological University Singapore. Prior to commencing my university education, I had a short stint as a Human Resources Executive after gaining a Diploma in Business Studies, specialising in Human Capital Management. 
+I received my M.A. (by research) in Communications & New Media from the National University of Singapore, and my BSocSci (Hons) in Psychology and Media Analytics from the Nanyang Technological University Singapore. Prior to commencing my university education, I had a short stint as a Human Resources Executive after gaining a Diploma in Business Studies, specialising in Human Capital Management. 
 
 
 ## Selected Publications
