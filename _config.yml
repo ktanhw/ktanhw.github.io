@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Tan Han Wei Ken"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Psychology PhD Student / interdisciplinary Researcher"
   location         : "Singapore"
-  employer         : "Nanyang Technological University"
+  employer         : "NTU Singapore"
   url              : # URL
   email            : "TANH0273@e.ntu.edu.sg" 
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
