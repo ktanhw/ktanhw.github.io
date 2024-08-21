@@ -21,7 +21,7 @@ repository               : "academicpages/ktanhw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_6191.heic"
+  avatar           : "IMG_6191.png"
   name             : "Tan Han Wei Ken"
   pronouns         : "He/Him" # example: "she/her"  
   bio              : "Psychology PhD Student / Interdisciplinary Researcher in Social Sciences"
