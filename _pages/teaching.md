@@ -12,9 +12,8 @@ redirect_from:
 **Graduate Teaching Assistant, Nanyang Technological University Singapore (2024 to Present)**
 The following are courses that I have TA-ed at NTU Singapore:
 
-* HP4251 Human Motivation (Fall 2024, non-direct teaching duties)
+* HP4251 Human Motivation (Fall 2024, non-direct teaching duties)  
   Assisted in the adminstrative and gradings of an undergraduate seminar of 35 students
-
 
 **Graduate Teaching Assistant, National University of Singapore (2022 to 2023)**
 The following are courses that I have TA-ed at NUS Singapore:
