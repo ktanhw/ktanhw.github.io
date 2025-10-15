@@ -26,9 +26,7 @@ I received my M.A. (by research) in Communications & New Media from the National
 }
 </style>
 **Peer-Reviewed Articles**
-<p class="reference">
-  Ahmed, S., & Tan, H. W. (2022). Personality and perspicacity: Role of personality traits and cognitive ability in political misinformation discernment and sharing behavior. Personality and Individual Differences, 196, 111747. [https://doi.org/10.1016/j.paid.2022.111747](https://doi.org/10.1016/j.paid.2022.111747)
-</p>
+1. Ahmed, S., & Tan, H. W. (2022). Personality and perspicacity: Role of personality traits and cognitive ability in political misinformation discernment and sharing behavior. Personality and Individual Differences, 196, 111747. [https://doi.org/10.1016/j.paid.2022.111747](https://doi.org/10.1016/j.paid.2022.111747)
 
 **Peer-Reviewed Book Chapters**
 <p class="reference">
