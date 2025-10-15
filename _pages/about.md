@@ -24,9 +24,10 @@ I received my M.A. (by research) in Communications & New Media from the National
 </p>
 
 **Conference Papers**
-1. Lee, C. S., Goh, D. H., Tan, H. W., Zheng, H., & Theng, Y. L. (2021). Understanding the Temporal Effects on Tweetcussion of COVID‐19 Vaccine. Proceedings of the Association for Information Science and Technology, 58(1), 768–770. [https://doi.org/10.1002/pra2.556](https://doi.org/10.1002/pra2.556)
-2. Tan, H. W., Lee, C. S., Goh, D. H.-L., Zheng, H., & Theng, Y. L. (2021). Analyzing COVID-19 Vaccine Tweets for Tonal Shift. In C. Stephanidis, M. Antona, & S. Ntoa (Eds.), HCI International 2021—Posters (Vol. 1421, pp. 615–623). Springer International Publishing. [https://doi.org/10.1007/978-3-030-78645-8_78](https://doi.org/10.1007/978-3-030-78645-8_78)
-
+<p style="padding-left: 2em; text-indent: -2em;">
+  Lee, C. S., Goh, D. H., Tan, H. W., Zheng, H., & Theng, Y. L. (2021). Understanding the Temporal Effects on Tweetcussion of COVID‐19 Vaccine. Proceedings of the Association for Information Science and Technology, 58(1), 768–770. [https://doi.org/10.1002/pra2.556](https://doi.org/10.1002/pra2.556)
+  Tan, H. W., Lee, C. S., Goh, D. H.-L., Zheng, H., & Theng, Y. L. (2021). Analyzing COVID-19 Vaccine Tweets for Tonal Shift. In C. Stephanidis, M. Antona, & S. Ntoa (Eds.), HCI International 2021—Posters (Vol. 1421, pp. 615–623). Springer International Publishing. [https://doi.org/10.1007/978-3-030-78645-8_78](https://doi.org/10.1007/978-3-030-78645-8_78)
+</p>
 
 ## 💬 Selected Conference Talks 
 1. Tan, H. W., Ahmed, S. (2022, May). Role of Ideologies, Cognition, and Dark and Light Triad Traits in Political Misinformation Engagement. Extended Abstract presented at the 72nd Annual International Communication Association (ICA) Conference. Paris, France (Hybrid).
