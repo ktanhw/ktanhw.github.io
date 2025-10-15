@@ -18,29 +18,40 @@ I received my M.A. (by research) in Communications & New Media from the National
 
 
 ## 📝 Selected Publications
+<style>
+.reference {
+  padding-left: 2em;
+  text-indent: -2em;
+  margin: 0.3em 0; /* controls vertical spacing */
+}
+</style>
 **Peer-Reviewed Articles**
-<p style="padding-left: 2em; text-indent: -2em;">
+<p class="reference">
   Ahmed, S., & Tan, H. W. (2022). Personality and perspicacity: Role of personality traits and cognitive ability in political misinformation discernment and sharing behavior. Personality and Individual Differences, 196, 111747. [https://doi.org/10.1016/j.paid.2022.111747](https://doi.org/10.1016/j.paid.2022.111747)
 </p>
 
 **Peer-Reviewed Book Chapters**
+<p class="reference">
+  Sim, T. Y. H., & Tan, H. W. (2025). Using Google Earth in the Exploration of Historical Places: Combining the Crafting of Place Descriptions and Journaling of Students’ Meta-Processes for an Understanding of the Battle of Johor in World War II. Studies in Singapore Education: Research, Innovation & Practice, 193–216. https://doi.org/10.1007/978-981-96-4200-7_9
+</p>
 
 **Conference Papers**
-<p style="padding-left: 2em; text-indent: -2em;">
+<p class="reference">
   Lee, C. S., Goh, D. H., Tan, H. W., Zheng, H., & Theng, Y. L. (2021). Understanding the Temporal Effects on Tweetcussion of COVID‐19 Vaccine. Proceedings of the Association for Information Science and Technology, 58(1), 768–770. [https://doi.org/10.1002/pra2.556](https://doi.org/10.1002/pra2.556)
 </p>
+<p class="reference">
   Tan, H. W., Lee, C. S., Goh, D. H.-L., Zheng, H., & Theng, Y. L. (2021). Analyzing COVID-19 Vaccine Tweets for Tonal Shift. In C. Stephanidis, M. Antona, & S. Ntoa (Eds.), HCI International 2021—Posters (Vol. 1421, pp. 615–623). Springer International Publishing. [https://doi.org/10.1007/978-3-030-78645-8_78](https://doi.org/10.1007/978-3-030-78645-8_78)
 </p>
 
 ## 💬 Selected Conference Talks 
-<p style="padding-left: 2em; text-indent: -2em;">
-Tan, H. W., Ahmed, S. (2022, May). Role of Ideologies, Cognition, and Dark and Light Triad Traits in Political Misinformation Engagement. Extended Abstract presented at the 72nd Annual International Communication Association (ICA) Conference. Paris, France (Hybrid).
+<p class="reference">
+  Tan, H. W., Ahmed, S. (2022, May). Role of Ideologies, Cognition, and Dark and Light Triad Traits in Political Misinformation Engagement. Extended Abstract presented at the 72nd Annual International Communication Association (ICA) Conference. Paris, France (Hybrid).
 </p>
-<p style="padding-left: 2em; text-indent: -2em;">
-Lee, C. S., Goh, D. H., Tan, H. W., Zheng, H., & Theng, Y. L. (2022, May). The Situational Theory of Publics Approach to Understand Tweets about COVID-19 Vaccines. Poster paper presented at the 72nd Annual International Communication Association (ICA) Conference. Paris, France (Hybrid).
+<p class="reference">
+  Lee, C. S., Goh, D. H., Tan, H. W., Zheng, H., & Theng, Y. L. (2022, May). The Situational Theory of Publics Approach to Understand Tweets about COVID-19 Vaccines. Poster paper presented at the 72nd Annual International Communication Association (ICA) Conference. Paris, France (Hybrid).
 </p>
-<p style="padding-left: 2em; text-indent: -2em;">
-Tan, H. W., Lee, C. S. (2021, September). The Tweetcussion of COVID-19 Vaccine. Poster paper presented at the 9th Annual International Conference of Undergraduate Research (ICUR 2021).
+<p class="reference">
+  Tan, H. W., Lee, C. S. (2021, September). The Tweetcussion of COVID-19 Vaccine. Poster paper presented at the 9th Annual International Conference of Undergraduate Research (ICUR 2021).
 </p>
 
 ## 🏆 Selected Awards & Honors
