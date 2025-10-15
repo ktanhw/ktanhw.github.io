@@ -23,11 +23,12 @@ I received my M.A. (by research) in Communications & New Media from the National
   Ahmed, S., & Tan, H. W. (2022). Personality and perspicacity: Role of personality traits and cognitive ability in political misinformation discernment and sharing behavior. Personality and Individual Differences, 196, 111747. [https://doi.org/10.1016/j.paid.2022.111747](https://doi.org/10.1016/j.paid.2022.111747)
 </p>
 
+**Peer-Reviewed Book Chapters**
+
 **Conference Papers**
 <p style="padding-left: 2em; text-indent: -2em;">
   Lee, C. S., Goh, D. H., Tan, H. W., Zheng, H., & Theng, Y. L. (2021). Understanding the Temporal Effects on Tweetcussion of COVID‐19 Vaccine. Proceedings of the Association for Information Science and Technology, 58(1), 768–770. [https://doi.org/10.1002/pra2.556](https://doi.org/10.1002/pra2.556)
 </p>
-<p style="padding-left: 2em; text-indent: -2em;">
   Tan, H. W., Lee, C. S., Goh, D. H.-L., Zheng, H., & Theng, Y. L. (2021). Analyzing COVID-19 Vaccine Tweets for Tonal Shift. In C. Stephanidis, M. Antona, & S. Ntoa (Eds.), HCI International 2021—Posters (Vol. 1421, pp. 615–623). Springer International Publishing. [https://doi.org/10.1007/978-3-030-78645-8_78](https://doi.org/10.1007/978-3-030-78645-8_78)
 </p>
 
