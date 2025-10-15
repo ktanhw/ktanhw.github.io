@@ -33,20 +33,32 @@ I received my M.A. (by research) in Communications & New Media from the National
 
 <div class="section-title">Peer-Reviewed Articles</div>
 <p class="reference">
-  Ahmed, S., & Tan, H. W. (2022). Personality and perspicacity: Role of personality traits and cognitive ability in political misinformation discernment and sharing behavior. Personality and Individual Differences, 196, 111747. [https://doi.org/10.1016/j.paid.2022.111747](https://doi.org/10.1016/j.paid.2022.111747)
+  Ahmed, S., & Tan, H. W. (2022). Personality and perspicacity: Role of personality traits and cognitive ability in political misinformation discernment and sharing behavior. <i>Personality and Individual Differences, 196,</i> 111747. 
+  <a href="https://doi.org/10.1016/j.paid.2022.111747" target="_blank" rel="noopener noreferrer">
+    https://doi.org/10.1016/j.paid.2022.111747
+  </a>
 </p>
 
-**Peer-Reviewed Book Chapters**
+<div class="section-title">Peer-Reviewed Book Chapters</div>
 <p class="reference">
-  Sim, T. Y. H., & Tan, H. W. (2025). Using Google Earth in the Exploration of Historical Places: Combining the Crafting of Place Descriptions and Journaling of Students’ Meta-Processes for an Understanding of the Battle of Johor in World War II. Studies in Singapore Education: Research, Innovation & Practice, 193–216. https://doi.org/10.1007/978-981-96-4200-7_9
+  Sim, T. Y. H., & Tan, H. W. (2025). Using Google Earth in the Exploration of Historical Places: Combining the Crafting of Place Descriptions and Journaling of Students’ Meta-Processes for an Understanding of the Battle of Johor in World War II. <i>Studies in Singapore Education: Research, Innovation & Practice,</i> 193–216. 
+  <a href="https://doi.org/10.1007/978-981-96-4200-7_9" target="_blank" rel="noopener noreferrer">
+    https://doi.org/10.1007/978-981-96-4200-7_9
+  </a>
 </p>
 
-**Conference Papers**
+<div class="section-title">Conference Papers</div>
 <p class="reference">
-  Lee, C. S., Goh, D. H., Tan, H. W., Zheng, H., & Theng, Y. L. (2021). Understanding the Temporal Effects on Tweetcussion of COVID‐19 Vaccine. Proceedings of the Association for Information Science and Technology, 58(1), 768–770. [https://doi.org/10.1002/pra2.556](https://doi.org/10.1002/pra2.556)
+  Lee, C. S., Goh, D. H., Tan, H. W., Zheng, H., & Theng, Y. L. (2021). Understanding the Temporal Effects on Tweetcussion of COVID‐19 Vaccine. <i>Proceedings of the Association for Information Science and Technology, 58</i>(1), 768–770. 
+  <a href="https://doi.org/10.1002/pra2.556" target="_blank" rel="noopener noreferrer">
+    https://doi.org/10.1002/pra2.556
+  </a>
 </p>
 <p class="reference">
-  Tan, H. W., Lee, C. S., Goh, D. H.-L., Zheng, H., & Theng, Y. L. (2021). Analyzing COVID-19 Vaccine Tweets for Tonal Shift. In C. Stephanidis, M. Antona, & S. Ntoa (Eds.), HCI International 2021—Posters (Vol. 1421, pp. 615–623). Springer International Publishing. [https://doi.org/10.1007/978-3-030-78645-8_78](https://doi.org/10.1007/978-3-030-78645-8_78)
+  Tan, H. W., Lee, C. S., Goh, D. H.-L., Zheng, H., & Theng, Y. L. (2021). Analyzing COVID-19 Vaccine Tweets for Tonal Shift. In C. Stephanidis, M. Antona, & S. Ntoa (Eds.), <i>HCI International 2021—Posters</i> (Vol. 1421, pp. 615–623). Springer International Publishing. 
+  <a href="https://doi.org/10.1007/978-3-030-78645-8_78" target="_blank" rel="noopener noreferrer">
+    https://doi.org/10.1007/978-3-030-78645-8_78
+  </a>
 </p>
 
 ## 💬 Selected Conference Talks 
