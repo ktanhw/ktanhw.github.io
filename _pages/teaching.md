@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **Graduate Teaching Assistant, Nanyang Technological University Singapore (2024 to Present)**
+
 The following are courses that I have TA-ed at NTU Singapore:
 
 * HP3101 Applied Statistical Methods for Psychological Research (Spring 2026, non-direct teaching duties)
@@ -25,6 +26,7 @@ The following are courses that I have TA-ed at NTU Singapore:
   Assisted in the administrative and grading of an undergraduate seminar of 35 students.
   
 **Graduate Teaching Assistant, National University of Singapore (2022 to 2023)**
+
 The following are courses that I have TA-ed at NUS Singapore:
 
 * NMC5322 Interactive Media Marketing Practices (Fall 2023, non-direct teaching duties)
